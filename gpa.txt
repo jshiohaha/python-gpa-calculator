@@ -1,0 +1,67 @@
+2010F Semester
+------------------------------------------
+Course name:		INTRODUCTION TO CSE
+Number of hours:	0
+Course Grade:		P
+
+Course name:		SPECIAL TOPICS: INNOVATION
+Number of hours:	3
+Course Grade:		A-
+
+Course name:		UNIV HONORS SEMINAR
+Number of hours:	3
+Course Grade:		A
+
+Course name:		CALCULUS III
+Number of hours:	4
+Course Grade:		A+
+
+Course name:		HNRS: COMPUTER PRBLM
+Number of hours:	4
+Course Grade:		A
+
+Course name:		HNRS: LEADERSHIP PRINCIPLES
+Number of hours:	1
+Course Grade:		A+
+
+Course name:		HNRS: COMM I
+Number of hours:	1
+Course Grade:		A+
+
+Course name:		HONORS EXPERIENCE
+Number of hours:	0
+Course Grade:		P
+
+
+2011S Semester
+------------------------------------------
+Course name:		UNIX SYSTEMS
+Number of hours:	1
+Course Grade:		A+
+
+Course name:		LINEAR ALGEBRA
+Number of hours:	3
+Course Grade:		A+
+
+Course name:		ACCOUNTING
+Number of hours:	3
+Course Grade:		A+
+
+Course name:		HNRS: ECONOMICS
+Number of hours:	3
+Course Grade:		A
+
+Course name:		SOFTWARE DEVELOPMENT
+Number of hours:	4
+Course Grade:		A+
+
+Course name:		HNRS: COMM II
+Number of hours:	2
+Course Grade:		A
+
+Course name:		INTRODUCTORY STATISTICS
+Number of hours:	3
+Course Grade:		A
+
+
+After 2 semesters, cumulative GPA is: 3.9717142857142855
