@@ -17,6 +17,8 @@ Here is a sample of the input file - `grades.txt`:
 3,B,Learned_ALot_But_ReallyHard
 4,A+,Didnt_Even_Buy_The_Book
 ```
+If you're still unsure how to format the `grades.txt` input file, look at the format when you clone the repo. You will find an example of what 2 semesters worth of classes look like as input as well as output in `gpa.txt`.
+
 ***
 
 ### TODO
