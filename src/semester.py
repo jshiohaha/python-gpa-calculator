@@ -27,7 +27,8 @@ class Semester(object):
 
     def get_total_hours(self):
         hours = 0
-        for course in self.get_courses():
+        courses = [course for course in self.get_courses() if not course.is_pass_no_pass()]
+        for course in courses:
             hours += course.get_num_hours()
         return hours
 
@@ -35,7 +36,8 @@ class Semester(object):
         total_hours = self.get_total_hours()
         gpa = 0.0
 
-        for course in self.get_courses():
+        courses = [course for course in self.get_courses() if not course.is_pass_no_pass()]
+        for course in courses:
             gpa += (course.get_num_hours() / total_hours) * course.get_grade()
         return gpa
 

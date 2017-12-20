@@ -18,6 +18,9 @@ class Course(object):
         self.name = name
         self.num_hours = int(num_hours)
         self.grade = grade
+        self.pass_no_pass = False
+        if self.grade.lower() == 'p' or self.grade.lower() == 'f':
+            self.pass_no_pass = True
 
     def get_name(self):
         return self.name
@@ -27,6 +30,9 @@ class Course(object):
 
     def get_grade(self):
         return get_from_table(self.grade, gpa_table)
+
+    def is_pass_no_pass(self):
+        return self.pass_no_pass == True
 
     def to_string(self):
         name = self.get_name()[:-1] if self.get_name()[-1:] == '\n' else self.get_name()
